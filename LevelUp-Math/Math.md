@@ -1,2 +1,7 @@
-What is the meaning of reasoning in general?
-An introduction to mathematical logic.
+## مقدمه ای بر ریاضیات پایه برای الگوریتم ( کاربردی در صنعت)
+
+# عناوین :
+<ul>
+  <li>منطق به صورت عمومی به چه معناست ؟</li>
+  <li>چرا به استدلال نیاز داریم؟</li>
+</ul>
