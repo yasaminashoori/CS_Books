@@ -113,4 +113,19 @@ n یک عدد اول است.
 
 هر گیت منطقی مثل یک عملگر منطقی، چند ورودی دریافت می‌کند و یک خروجی می‌دهد. برای آشنایی با چند گیت منطقی معروف آشنا می‌شویم.
 
-گیت NOT
+# گیت NOT
+
+<img src="https://qph.cf2.quoracdn.net/main-qimg-c4028aec56dd003bc63e94eca172e1ed-pjlq" width="30%">
+
+# گیت AND
+
+<img src="https://www.yourelectricalguide.com/wp-content/uploads/2019/10/AND-gate.png" width="20%">
+
+# گیت OR
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYj6YGl4Lqj9xz9NTn4kWXSJUkqANO-Mtq8s8b76XrBkk57KPrmGwfinRPx6WWKU8Iqk&usqp=CAU">
+
+# گیت XOR
+<img src="https://content.instructables.com/F5N/22IW/KT4D9ISL/F5N22IWKT4D9ISL.jpg?auto=webp&frame=1&width=320&md=403339001eeca67f430f0061ab4a0bc1">
+
+# گیت NAND 
+<img src="https://i.stack.imgur.com/rpqNC.png" width="50%">
