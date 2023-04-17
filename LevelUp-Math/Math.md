@@ -129,3 +129,7 @@ n یک عدد اول است.
 
 # گیت NAND 
 <img src="https://i.stack.imgur.com/rpqNC.png" width="50%">
+
+#  نحوه تبدیل گیت  NAND به گیت های دیگر 
+
+<img src="">
