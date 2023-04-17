@@ -137,9 +137,9 @@ n یک عدد اول است.
 
 #  نحوه تبدیل گیت  NAND به گیت های دیگر 
 
-<img src="images\Nand.PNG">
+<img src="/images/Nand.PNG">
 
-<img src="images\nand2.PNG">
+<img src="/images/nand2.PNG">
 
 # مبناها 
 
