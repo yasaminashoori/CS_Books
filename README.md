@@ -6,7 +6,6 @@
 2- Algorithm and DS (best questions and concepts).
 
 3- Topics that prepare us for the day of the interview.
-
 # Contents : 
 
 <ul>
