@@ -1,3 +1,7 @@
+# Git & Github 
+
+You can access to my presentation file from this <a href="">link</a>
+
 # درمورد  version control 
 
 "کنترل نسخه" چیست و چرا باید به آن اهمیت دهید؟ نسخه کنترل سیستمی است که به مرور زمان یک فایل یا مجموعه ای از فایل هایی که تغییر می کنند را ردیابی می‌کند
@@ -24,3 +28,10 @@
 یکی از محبوب‌ترین ابزارهای VCS، سیستمی به نام RCS بود که هنوز در بین بسیاری توزیع می‌شود.
 کامپیوترهای امروزی RCS با نگه داشتن مجموعه های پچ (یعنی تفاوت بین فایل ها)  روی فرمت ویژه ای روی دیسک کار می‌کند؛
 سپس می‌تواند با جمع کردن همه فایل‌ها را در هر نقطه از زمان دوباره تکه ها را ایجاد کند.
+
+# What is Git and why do we need it?
+
+<img src="images\girl.PNG">
+
+Git is a VCS (Version Control System) that tracks all of the changes on our folder. 
+
