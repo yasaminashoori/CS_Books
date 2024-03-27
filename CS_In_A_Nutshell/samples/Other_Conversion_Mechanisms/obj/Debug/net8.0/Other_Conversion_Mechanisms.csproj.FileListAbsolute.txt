@@ -1,0 +1,15 @@
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\bin\Debug\net8.0\Other_Conversion_Mechanisms.exe
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\bin\Debug\net8.0\Other_Conversion_Mechanisms.deps.json
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\bin\Debug\net8.0\Other_Conversion_Mechanisms.runtimeconfig.json
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\bin\Debug\net8.0\Other_Conversion_Mechanisms.dll
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\bin\Debug\net8.0\Other_Conversion_Mechanisms.pdb
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\obj\Debug\net8.0\Other_Conversion_Mechanisms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\obj\Debug\net8.0\Other_Conversion_Mechanisms.AssemblyInfoInputs.cache
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\obj\Debug\net8.0\Other_Conversion_Mechanisms.AssemblyInfo.cs
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\obj\Debug\net8.0\Other_Conversion_Mechanisms.csproj.CoreCompileInputs.cache
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\obj\Debug\net8.0\Other_Conversion_Mechanisms.sourcelink.json
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\obj\Debug\net8.0\Other_Conversion_Mechanisms.dll
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\obj\Debug\net8.0\refint\Other_Conversion_Mechanisms.dll
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\obj\Debug\net8.0\Other_Conversion_Mechanisms.pdb
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\obj\Debug\net8.0\Other_Conversion_Mechanisms.genruntimeconfig.cache
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Other_Conversion_Mechanisms\obj\Debug\net8.0\ref\Other_Conversion_Mechanisms.dll

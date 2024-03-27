@@ -1,0 +1,15 @@
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\bin\Debug\net8.0\Order_Comparison.exe
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\bin\Debug\net8.0\Order_Comparison.deps.json
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\bin\Debug\net8.0\Order_Comparison.runtimeconfig.json
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\bin\Debug\net8.0\Order_Comparison.dll
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\bin\Debug\net8.0\Order_Comparison.pdb
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\obj\Debug\net8.0\Order_Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\obj\Debug\net8.0\Order_Comparison.AssemblyInfoInputs.cache
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\obj\Debug\net8.0\Order_Comparison.AssemblyInfo.cs
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\obj\Debug\net8.0\Order_Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\obj\Debug\net8.0\Order_Comparison.sourcelink.json
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\obj\Debug\net8.0\Order_Comparison.dll
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\obj\Debug\net8.0\refint\Order_Comparison.dll
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\obj\Debug\net8.0\Order_Comparison.pdb
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\obj\Debug\net8.0\Order_Comparison.genruntimeconfig.cache
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Order_Comparison\obj\Debug\net8.0\ref\Order_Comparison.dll

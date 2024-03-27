@@ -333,3 +333,20 @@ comprises = شامل بودن
 tersely = به طور مختصر
 
 - Field: A field is a variable that is a member of a class or struct.
+
+فرق اینترفیس و ابسترکت کلاس اینه که اینترفیس نمیتونه فیلد داشته باشه
+ولی ابستکرت کلاس میتونه
+در واقع ابسترکت کلاس استیت داره، ولی اینترفیس استیت لسه
+کامل ترین سطح ابسترکشن رو اینترفیس میده
+جایی که نیاز داریم استیتی نگه داری بشه از ابسترکت کلاس استفاده میکنیم، جایی که نیازی نداریم که استیتی رو نگه داری کنیم از اینترفیس استفاده کنیم، به علاوه، یه کلاس میتونه چندین اینترفیس رو پیاده سازی کنه ولی فقط میتونه از یه کلاس ارث بری کنه، و این باعث میشه توی خیلی از سناریو ها از اینترفیس استفاده کنیم
+Mostafa Hosseini
+11:34 PM
+دلیل اضافه شدن متد بدنه دار در اینترفیس به این دلیل بود که دچار بریکینگ چینج نشه اپلیکیشن موقعی که یه متد به اینترفیس اضافه میشه
+چون اگه بدنه پیشفرض وجود نداشته باشه، هر کلاسی که اون اینترفیس رو پیاده سازی کرده کامپایل ارور میگیره
+
+typing.com
+typekadeh.com
+
+
+
+The fundamental building block in C# is an encapsulated unit of data and func‐ tions called a type. C# has a unified type system in which all types ultimately share a common base type. This means that all types, whether they represent business objects or are primitive types such as numbers, share the same basic functionality. For example, an instance of any type can be converted to a string by calling its ToString method

@@ -1,0 +1,15 @@
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\obj\Debug\net8.0\Chapter6_Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\obj\Debug\net8.0\Chapter6_Fundamentals.AssemblyInfoInputs.cache
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\obj\Debug\net8.0\Chapter6_Fundamentals.AssemblyInfo.cs
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\obj\Debug\net8.0\Chapter6_Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\obj\Debug\net8.0\Chapter6_Fundamentals.sourcelink.json
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\bin\Debug\net8.0\Chapter6_Fundamentals.exe
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\bin\Debug\net8.0\Chapter6_Fundamentals.deps.json
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\bin\Debug\net8.0\Chapter6_Fundamentals.runtimeconfig.json
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\bin\Debug\net8.0\Chapter6_Fundamentals.dll
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\bin\Debug\net8.0\Chapter6_Fundamentals.pdb
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\obj\Debug\net8.0\Chapter6_Fundamentals.dll
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\obj\Debug\net8.0\refint\Chapter6_Fundamentals.dll
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\obj\Debug\net8.0\Chapter6_Fundamentals.pdb
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\obj\Debug\net8.0\Chapter6_Fundamentals.genruntimeconfig.cache
+C:\Users\Yasi\Desktop\CS_In_A_Nutshell\CS_In_A_Nutshell\samples\Chapter6_Fundamentals\obj\Debug\net8.0\ref\Chapter6_Fundamentals.dll
