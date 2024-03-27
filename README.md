@@ -1,4 +1,5 @@
-# :file_folder:This Repo includes my collections in the form of essential and summarized Back-End/Front-End for employment.
+
+# This Repo includes my notes and summarized info, codes about C# 12 in a nutshell 
 # Includes  : 
 
 1 - C# Microsoft Documnet (important topics).
